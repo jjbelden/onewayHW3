@@ -1,0 +1,15 @@
+Package: onewayHW3
+Type: Package
+Title: Functions for Oneway Analysis of Variance
+Version: 0.1.0.9000
+Authors@R: person("Jackson", "Belden", , "jbelden@wesleyan.edu", role = c("aut", "cre"),)
+Description: Performs a oneway analysis of variance and 
+  introduces generic methods to plot and print objects. 
+  "plot.oneway()" creates a base r barchart which visualizes 
+  the relationship between given two variables. 
+  "print.oneway()" prints the results of the oneway analysis of variance
+  with additional structuring text.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
